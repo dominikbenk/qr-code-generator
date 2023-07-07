@@ -1,0 +1,6 @@
+openai
+langchain
+deeplake
+apify-client
+tiktoken 
+pydantic==1.10.8
